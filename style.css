@@ -1,17 +1,13 @@
 body{
-    background-color: black;
-   
+    background-color: black; 
 }
-
-
 h2{
     color: rgb(248, 245, 240);
     text-align: center;
     font-style: italic;
     padding: 1rem;
     background-color: gold;
-    border-radius: 2rem 2rem ;
-    
+    border-radius: 2rem 2rem ;    
 }
 nav{
     border: 2px solid wheat;
@@ -21,25 +17,20 @@ nav{
     font-size: 2rem;
     padding: 1rem;
     line-height: 5rem;
-    text-align: center;
-    
-    
+    text-align: center;    
 }
 a{
     color: White;
     font-size: larger;
 }
-
 a:hover{
 
     color: aqua;
     display: block;
-    background-color: gray;
-    
+    background-color: gray;    
 }
 ul{
-    color: azure;
-    
+    color: azure;    
 }
 li{
     border-top: 1px solid wheat ;
